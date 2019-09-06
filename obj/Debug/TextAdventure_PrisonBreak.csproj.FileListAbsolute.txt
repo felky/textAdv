@@ -1,0 +1,7 @@
+C:\Users\flixa\source\repos\TextAdventure_PrisonBreak\TextAdventure_PrisonBreak\bin\Debug\TextAdventure_PrisonBreak.exe.config
+C:\Users\flixa\source\repos\TextAdventure_PrisonBreak\TextAdventure_PrisonBreak\bin\Debug\TextAdventure_PrisonBreak.exe
+C:\Users\flixa\source\repos\TextAdventure_PrisonBreak\TextAdventure_PrisonBreak\bin\Debug\TextAdventure_PrisonBreak.pdb
+C:\Users\flixa\source\repos\TextAdventure_PrisonBreak\TextAdventure_PrisonBreak\obj\Debug\TextAdventure_PrisonBreak.csprojAssemblyReference.cache
+C:\Users\flixa\source\repos\TextAdventure_PrisonBreak\TextAdventure_PrisonBreak\obj\Debug\TextAdventure_PrisonBreak.csproj.CoreCompileInputs.cache
+C:\Users\flixa\source\repos\TextAdventure_PrisonBreak\TextAdventure_PrisonBreak\obj\Debug\TextAdventure_PrisonBreak.exe
+C:\Users\flixa\source\repos\TextAdventure_PrisonBreak\TextAdventure_PrisonBreak\obj\Debug\TextAdventure_PrisonBreak.pdb
